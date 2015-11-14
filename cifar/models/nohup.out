@@ -1,0 +1,5 @@
+/opt/torch/install/bin/luajit: cannot open train.lua: No such file or directory
+stack traceback:
+	[C]: in function 'dofile'
+	/opt/torch/install/lib/luarocks/rocks/trepl/scm-1/bin/th:131: in main chunk
+	[C]: at 0x00406670
